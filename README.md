@@ -1,2 +1,2 @@
 # games
-Website for games
+Website for mobile bar games
